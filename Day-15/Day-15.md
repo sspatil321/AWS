@@ -1,15 +1,15 @@
-###EBS Feature
+### EBS Feature
 
-###Refernce Link - https://learning-ocean.com/tutorials/aws/aws-ebs-volume-type/
+### Refernce Link - https://learning-ocean.com/tutorials/aws/aws-ebs-volume-type/
 
 ## Attach,detach and mount EBS volume
 
 ## Resize EBS volume
 
-##Attach one EBS volume to Multiple EC2 instances
+## Attach one EBS volume to Multiple EC2 instances
 
-##Types of EBS volume should I use?
+## Types of EBS volume should I use?
 
-##Snapshot
+## Snapshot
 
-##Automate backup
+## Automate backup
